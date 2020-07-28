@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Favorite emojis
+   1. :heart:
+   2. :cold_sweat:
+2. Least Favorite emojis
+   1. :neckbeard:
