@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am intermediate with **python** and **SQL**, and I am _beginning_ to learn about __GitHub__.
